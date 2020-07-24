@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alidili&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![YangLe's github stats](https://github-readme-stats.vercel.app/api?username=alidili&theme=dracula&show_icons=true)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=Demos&theme=dracula&show_icons=true)]()
