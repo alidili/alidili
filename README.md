@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![YangLe's github stats](https://github-readme-stats.vercel.app/api?username=alidili&theme=dracula&show_icons=true)
 
-[![Demos](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=Demos&theme=dracula&show_icons=true)](https://github.com/alidili/Demos)&nbsp;&nbsp;&nbsp;&nbsp;[![RecyclerViewHelper](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=RecyclerViewHelper&theme=dracula&show_icons=true)](https://github.com/alidili/RecyclerViewHelper)
+[![Demos](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=Demos&theme=dracula&show_icons=true&show_owner=true)](https://github.com/alidili/Demos)&nbsp;&nbsp;&nbsp;&nbsp;[![RecyclerViewHelper](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=RecyclerViewHelper&theme=dracula&show_icons=true&show_owner=true)](https://github.com/alidili/RecyclerViewHelper)
