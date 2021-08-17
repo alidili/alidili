@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![YangLe's github stats](https://github-readme-stats.vercel.app/api?username=alidili&theme=dracula&show_icons=true)
+🌱 I’m currently learning ...
 
-[![Demos](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=Demos&theme=dracula&show_icons=true&show_owner=true)](https://github.com/alidili/Demos)&nbsp;&nbsp;&nbsp;&nbsp;[![RecyclerViewHelper](https://github-readme-stats.vercel.app/api/pin/?username=alidili&repo=RecyclerViewHelper&theme=dracula&show_icons=true&show_owner=true)](https://github.com/alidili/RecyclerViewHelper)
+![YangLe's github stats](https://github-readme-stats.vercel.app/api?username=alidili&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
+
+## 我的博客：
+
+⚡[简书](https://www.jianshu.com/u/34ece31cd6eb)
+
+⚡[CSDN](https://blog.csdn.net/kong_gu_you_lan)
+
+⚡[掘金](https://juejin.cn/user/3755587450187432/posts)
+
+## 联系我：
+
+📫邮箱：mr.yang0229@foxmail.com
+
+💬微信：alidili123
+
