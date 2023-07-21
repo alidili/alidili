@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 ✨ **容华谢后Tech** ✨
 
 ![容华谢后Tech](https://github.com/alidili/alidili/raw/master/resources/wx_qrcode.jpg)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alidili/Demos&type=Date)](https://star-history.com/#alidili/Demos&Date)
