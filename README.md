@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning ...
+🌱 找工作中，欢迎联系我15311223626，微信同手机号
 
 ![YangLe's github stats](https://github-readme-stats.vercel.app/api?username=alidili&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
 
